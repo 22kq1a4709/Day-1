@@ -5,3 +5,10 @@ for ch in s:
     if ch != " ":
         no_spaces += ch
 print(no_spaces)
+
+
+
+
+#sample output
+Enter a string: Hello world
+Helloworld
