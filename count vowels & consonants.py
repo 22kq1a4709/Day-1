@@ -11,3 +11,10 @@ for ch in s:
             c +=1
 print("Vowels:", v)
 print("Consonants:", c)
+
+
+
+#sample output
+Enter a string: krishna
+Vowels: 2
+Consonants: 5
